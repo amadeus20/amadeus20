@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amadeus20
 - 👀 I’m interested in movies and tv shows
 - 🌱 I’m currently learning to programing C#
+- 🦖 I´m studying the university like a software engineer 
 - 📫 How to reach me 
 - ⚡ Fun fact: ...
 
